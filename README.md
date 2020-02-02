@@ -1,6 +1,6 @@
 ## Algorithms
 ### Graphs
-* [Bellman Fort](./algorithms/graph/bellman-ford/README.md)
+* [Bellman-Ford](./algorithms/graph/bellman-ford/README.md)
 * [Breadth First Search](./algorithms/graph/breadth-first-search/README.md)
 * [Depth First Search](./algorithms/graph/depth-first-search/README.md)
 * [Dijkstra](./algorithms/graph/dijkstra/README.md)
